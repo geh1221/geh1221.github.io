@@ -1,9 +1,9 @@
 
 ### Education
-Data Science and Analytics, MS
+Data Science and Analytics, MS <br>
 Georgetown University, May 2025
 
-Biology of Global Health, BS
+Biology of Global Health, BS <br>
 Georgetown University, May 2024
 
 ### Projects
@@ -12,6 +12,25 @@ Georgetown University, May 2024
 - [February 2021 Flight Analysis](projects/project2.md)
 - [Airline Passenger Satisfaction](projects/project3.md)
 - [NHL Power Play Analysis](projects/project4.md)
+
+<div class="project-grid">
+  <a href="projects/project1.md" class="project-card">
+    <img src="assets/project1-image.png" alt="Travel Advice from Reddit Text Data">
+    <div class="project-title">Travel Advice from Reddit Text Data</div>
+  </a>
+  <a href="projects/project2.md" class="project-card">
+    <img src="assets/project2-image.png" alt="February 2021 Flight Analysis">
+    <div class="project-title">February 2021 Flight Analysis</div>
+  </a>
+  <a href="projects/project3.md" class="project-card">
+    <img src="assets/project3-image.png" alt="Airline Passenger Satisfaction">
+    <div class="project-title">Airline Passenger Satisfaction</div>
+  </a>
+  <a href="projects/project4.md" class="project-card">
+    <img src="assets/project4-image.png" alt="NHL Power Play Analysis">
+    <div class="project-title">NHL Power Play Analysis</div>
+  </a>
+</div>
 
 ### Work and Other Experiences
 
