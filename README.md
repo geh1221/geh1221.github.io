@@ -33,7 +33,8 @@ May 2023 – Aug 2023 </br>
 Dec 2022 – Dec 2023 </br>
 * Managed chapter budget of almost $40,000 and chaired two committees focused on member engagement and retention
 * Directed the planning and execution of all chapter events including formals, retreats, and bonding activities </br>
-</br>
+
+
 *Vice President of Panhellenic for Theta Iota Chapter* </br>
 Jan 2022 – Dec 2022 </br>
 * Served as delegate to campus Panhellenic Council and coordinated meetings of 100+ potential new members with chapter
