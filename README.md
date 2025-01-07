@@ -1,4 +1,3 @@
-# Grace Hyland
 
 ### Education
 Data Science and Analytics, MS
