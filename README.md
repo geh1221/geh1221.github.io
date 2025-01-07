@@ -16,8 +16,8 @@ Georgetown University, May 2024
 
 ### Work and Other Experiences
 
-**Spaghetti Lane**, Barrington, RI
-_Seasonal Server/Front of House Supervisor _ 
+**Spaghetti Lane**, Barrington, RI </br>
+_Seasonal Server/Front of House Supervisor _  </br>
 May 2020 – Aug 2024
 Initially hired as a server, advanced to supervisor managing weekly payroll reporting, training and scheduling for a team of fifteen employees. </br>
 
