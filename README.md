@@ -1,6 +1,5 @@
 ---
-format: html
-css: styles.css
+layout: default
 ---
 ### Education
 Data Science and Analytics, MS <br>
