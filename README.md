@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Welcome"
+format: html
+css: styles.css
 ---
 ### Education
 Data Science and Analytics, MS <br>
