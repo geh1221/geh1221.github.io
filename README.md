@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Welcome"
+---
 ### Education
 Data Science and Analytics, MS <br>
 Georgetown University, May 2025
