@@ -27,37 +27,8 @@ Georgetown University, May 2024
 | ![](assets/project3-image.png){width="343" height="242"}     |   ![](assets/project4-image.png){width="343" height="242"} |
 |  ***Airline Passenger Satisfaction***                      | ***NHL Power Play Analysis***                             |
 
-::: project-grid
-<a href="projects/project1.md" class="project-card">
-<img src="assets/project1-image.png" alt="Travel Advice from Reddit Text Data"/>
 
-::: project-title
-Travel Advice from Reddit Text Data
-:::
 
-</a> <a href="projects/project2.md" class="project-card">
-<img src="assets/project2-image.png" alt="February 2021 Flight Analysis"/>
-
-::: project-title
-February 2021 Flight Analysis
-:::
-
-</a> <a href="projects/project3.md" class="project-card">
-<img src="assets/project3-image.png" alt="Airline Passenger Satisfaction"/>
-
-::: project-title
-Airline Passenger Satisfaction
-:::
-
-</a> <a href="projects/project4.md" class="project-card">
-<img src="assets/project4-image.png" alt="NHL Power Play Analysis"/>
-
-::: project-title
-NHL Power Play Analysis
-:::
-
-</a>
-:::
 
 ### Work and Other Experiences
 
