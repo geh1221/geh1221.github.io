@@ -1,12 +1,4 @@
----
-layout: default
-editor_options:
-  markdown:
-    wrap: 72
-output:
-  html_document:
-    df_print: paged
----
+
 
 ### Education
 
