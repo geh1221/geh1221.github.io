@@ -1,4 +1,4 @@
-
+# Data Scientist
 
 ### Education
 
@@ -10,17 +10,7 @@ Biology of Global Health, BS
 
 Georgetown University, May 2024
 
-### Projects
-
-|                                                          |                                                          |
-|----------------------------------------------------------|----------------------------------------------------------|
-| ![](assets/project1-image.png){width="343" height="252"}    |    ![](assets/project2-image.png){width="343" height="242"} |
-|  ***Travel Advice From Reddit Text***                     |  ***Flight Delays and Early Departures***                  |
-| ![](assets/project3-image.png){width="343" height="242"}     |   ![](assets/project4-image.png){width="343" height="242"} |
-|  ***Airline Passenger Satisfaction***                      | ***NHL Power Play Analysis***                             |
-
-
-
+### Projects                            |
 
 ### Work and Other Experiences
 
@@ -85,4 +75,3 @@ Apr 2022 -- Oct 2022
 
 ### About Me
 
-Learn more [About Me](about.md).
